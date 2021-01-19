@@ -287,7 +287,10 @@ p {
   text-decoration-style: double;
   font-weight: bold;
   background: var(--silver);
+}
 
+.article__meta-author {
+  font-family: var(--lato);
 }
 
 .grey-highlight {
